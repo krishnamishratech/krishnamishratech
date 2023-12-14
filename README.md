@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamishratech&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamishratech" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/krishnamishrat" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/krishnamishrat?logo=twitter&style=for-the-badge" alt="https://twitter.com/krishnamishrat" /></a> </p>
+
 
 - 🌱 I’m currently learning **Reactjs**
 
