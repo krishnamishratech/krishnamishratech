@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Graphic design**
 
-- 📫 How to reach me **co.b.krishna.mishra@gmail.com**
+- 📫 How to reach me **co.b.14.krishna.mishra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
