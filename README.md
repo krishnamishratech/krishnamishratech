@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)](https://linktr.ee/krishnamishratech)
+[![MasterHead](https://t3.ftcdn.net/jpg/04/72/35/90/360_F_472359089_rxPk4qQPYHwSPOpFWiiMunXHaZ00DtrK.jpg)](https://linktr.ee/krishnamishratech)
 <h1 align="center">Hi 👋, I'm Krishna Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
