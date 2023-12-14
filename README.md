@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/krishnamishratech](https://linktr.ee/krishnamishratech)
 
-- 💬 Ask me about **Anriod MEARN**
+- 💬 Ask me about **Graphic design**
 
 - 📫 How to reach me **co.b.krishna.mishra@gmail.com**
 
